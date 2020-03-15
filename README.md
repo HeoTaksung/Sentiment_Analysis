@@ -14,7 +14,7 @@
  
     * ratings_train.txt - 15만 문장
     
-    * ratings_test.txt - 5만 문장http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301944)] 
+    * ratings_test.txt - 5만 문장
  
  -------------------------------------------
  
